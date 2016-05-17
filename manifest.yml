@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: rafa-demo-webinar
+  host: rafa-demo-webinar
+  disk_quota: 1024M
